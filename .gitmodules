@@ -1,0 +1,3 @@
+[submodule "PixelStreamingInfrastructure"]
+	path = PixelStreamingInfrastructure
+	url = https://github.com/EpicGames/PixelStreamingInfrastructure.git
